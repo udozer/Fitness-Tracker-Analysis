@@ -4,7 +4,7 @@ output: html_document
 ---
   
 ## Introduction and background
-This is a simple analysis performed to discover key trends in fitness tracker market
+This is a simple analysis performed on data from fitness trackers
 
 #### Upload CSV files to R
 Files used for analysis uploaded from kaggle:
